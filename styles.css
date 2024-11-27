@@ -40,10 +40,9 @@ nav {
 
 nav ul {
   display: flex;
-  justify-content: center; 
-  list-style: none;
   padding: 0;
   margin: 0;
+  justify-content: center;
 }
 
 nav ul li {
@@ -52,11 +51,9 @@ nav ul li {
 
 nav ul li a {
   color: white;
-  text-decoration: none;
   padding: 10px 15px;
   border-radius: 5px;
-  background-color: #555; 
-  transition: background-color 0.3s;
+  background-color: #060606; 
 }
 
 nav ul li a:hover {
@@ -90,6 +87,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
 
 
